@@ -967,7 +967,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #847,Barraskewda,Water,,4,3,7,3,7,2,4,2,4,2,4,Swift Swim,,Propeller Tail,,,,Amateur,
 #848,Toxel,Electric,Poison,3,3,3,3,3,3,3,3,3,3,3,Rattled,Static,Klutz,,Yes,,Amateur,
 #849,Toxtricity Amped,Electric,Poison,4,3,6,2,5,2,5,3,6,2,5,Punk Rock,Plus,Technician,,,Yes,Ace,
-#849,Toxtricity Low Key,Electric,Poison,4,3,6,2,5,2,5,3,6,2,5,Punk Rock,Plus,Technician,,,Yes,Ace,
+#849,Toxtricity Low Key,Electric,Poison,4,3,6,2,5,2,5,3,6,2,5,Punk Rock,Minus,Technician,,,Yes,Ace,
 #850,Sizzlipede,Fire,Bug,3,2,4,2,4,2,4,2,4,2,4,Flash Fire,White Smoke,Flame Body,,Yes,,Amateur,
 #851,Centiskorch,Fire,Bug,5,3,6,2,4,2,4,2,5,2,5,Flash Fire,White Smoke,Flame Body,,,,Ace,
 #852,Clobbopus,Fighting,,3,2,4,1,3,2,4,2,4,2,4,Limber,,Technician,,Yes,,Beginner,
